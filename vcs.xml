@@ -27,7 +27,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:hashvault/cryptonote-pool.git" />
+          <option name="url" value="https://github.com/aVisits-Ltd/cabinet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aVisits-Ltd/ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AtlantisUnited/c3-cabinet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AUAcademy/crypt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
