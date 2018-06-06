@@ -94,6 +94,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="torinasakura" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Bet4Coin/client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
