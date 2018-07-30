@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="version" value="2.7.0" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
@@ -9,5 +9,6 @@
     <option name="upperCaseTabs" value="true" />
     <option name="userId" value="5d5332d0:16403a83d6e:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
   </component>
 </application>
