@@ -138,6 +138,10 @@
           <option name="url" value="https://github.com/AtlantisUnited/boosters-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://torinasakura@bitbucket.org/sframes/new_gen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
