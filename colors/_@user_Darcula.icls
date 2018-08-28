@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T02:41:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-08-03T06:16:31</property>
+    <property name="modified">2018-08-28T21:14:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -28,4 +28,13 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+        <option name="BACKGROUND" value="212121" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
