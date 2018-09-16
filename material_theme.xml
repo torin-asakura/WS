@@ -1,10 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.8.3" />
+    <option name="version" value="2.9.0-pre1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="upperCaseTabs" value="true" />
     <option name="userId" value="5d5332d0:16403a83d6e:-7fff" />
