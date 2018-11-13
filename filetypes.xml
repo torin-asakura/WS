@@ -11,11 +11,12 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="Dockerfile-swt" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dashboard" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-swt" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="mjml" type="XHTML" />
     </extensionMap>
   </component>
 </application>
