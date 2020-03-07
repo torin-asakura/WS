@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../frontend/site'" />
-    <option name="defaultScopeName" value="Directory '.../frontend/site'" />
+    <option name="customScope" value="Directory '.../frontend/site/dashboard'" />
+    <option name="defaultScopeName" value="Directory '.../frontend/site/dashboard'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../frontend/site'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../frontend/site/dashboard'" />
     <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
