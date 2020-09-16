@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,8 +14,8 @@
     <mask>*.html</mask>
     <mask>*.sass</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>
