@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../serenity/frontend/fragments/ceilings-worksheet/package.json'" />
-    <option name="defaultScopeName" value="File '.../serenity/frontend/fragments/ceilings-worksheet/package.json'" />
-    <option name="SEARCH_SCOPE" value="File '.../serenity/frontend/fragments/ceilings-worksheet/package.json'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
