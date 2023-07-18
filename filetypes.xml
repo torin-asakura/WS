@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="clients" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
