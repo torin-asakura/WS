@@ -3,7 +3,6 @@
     <option name="customScope" value="Local" />
     <option name="defaultScopeName" value="Local" />
     <option name="SEARCH_SCOPE" value="Local" />
-    <option name="FILE_MASK" value="package.json" />
     <mask>*.ts</mask>
     <mask>package.json</mask>
   </component>
