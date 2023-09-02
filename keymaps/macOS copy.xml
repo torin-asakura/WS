@@ -1,5 +1,4 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateTerminalToolWindow" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -7,10 +6,7 @@
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
-  <action id="Tool_Warp_Warp Global">
-    <keyboard-shortcut first-keystroke="alt f12" />
-  </action>
-  <action id="Tool_Warp_Warp Local">
+  <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
 </keymap>
