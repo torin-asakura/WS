@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="RIGHT_MARGIN" value="100" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_QUOTE_STYLE" value="Single" />
   </HTMLCodeStyleSettings>
@@ -6,6 +9,7 @@
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="ALIGN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
@@ -24,7 +28,11 @@
     <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="5" />
     <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
   </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JavaScript">
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -33,7 +41,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
-    <option name="RIGHT_MARGIN" value="120" />
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
