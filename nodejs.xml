@@ -3,8 +3,11 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v20.4.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="/opt/homebrew/opt/node@18/bin/node">
+      <version-cache version="18.18.2" last-modified="1697548254187" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.13.0/bin/node">
-      <version-cache version="18.13.0" last-modified="1672958405000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
   </component>
 </application>
