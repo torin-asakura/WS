@@ -6,8 +6,8 @@
     <option name="FILE_MASK" value="*.ts*" />
     <mask>*.ts</mask>
     <mask>*.js</mask>
-    <mask>package.json</mask>
     <mask>*.json</mask>
+    <mask>package.json</mask>
     <mask>*.ts*</mask>
   </component>
 </application>
