@@ -1,16 +1,26 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="React Fragment Boilerplate.tsx" file-name="${NAME}.component" reformat="true" live-template-enabled="false">
-        <template name="React Fragment Boilerplate.tsx.child.3.ts" file-name="${NAME}.test" reformat="false" live-template-enabled="false" />
-        <template name="React Fragment Boilerplate.tsx.child.2.ts" file-name="index" reformat="true" live-template-enabled="false" />
-        <template name="React Fragment Boilerplate.tsx.child.0.ts" file-name="${NAME}.constants" reformat="true" live-template-enabled="false" />
-        <template name="React Fragment Boilerplate.tsx.child.1.ts" file-name="${NAME}.interfaces" reformat="true" live-template-enabled="false" />
+      <template name="React Component Boilerplate.tsx" file-name="${NAME}.component" reformat="true" live-template-enabled="false">
+        <template name="React Component Boilerplate.tsx.child.0.ts" file-name="${NAME}.interfaces" reformat="false" live-template-enabled="false" />
+        <template name="React Component Boilerplate.tsx.child.1.ts" file-name="${NAME}.constants" reformat="false" live-template-enabled="false" />
+        <template name="React Component Boilerplate.tsx.child.2.tsx" file-name="${NAME}.test" reformat="false" live-template-enabled="false" />
+        <template name="React Component Boilerplate.tsx.child.3.ts" file-name="index" reformat="true" live-template-enabled="false" />
       </template>
-      <template name="React Fragment Boilerplate.tsx.child.0.ts" file-name="${NAME}.constants" reformat="true" live-template-enabled="false" />
-      <template name="React Fragment Boilerplate.tsx.child.1.ts" file-name="${NAME}.interfaces" reformat="true" live-template-enabled="false" />
-      <template name="React Fragment Boilerplate.tsx.child.2.ts" file-name="index" reformat="true" live-template-enabled="false" />
-      <template name="React Fragment Boilerplate.tsx.child.3.ts" file-name="${NAME}.test" reformat="false" live-template-enabled="false" />
+      <template name="React Component Boilerplate.tsx.child.0.ts" file-name="${NAME}.interfaces" reformat="false" live-template-enabled="false" />
+      <template name="React Component Boilerplate.tsx.child.1.ts" file-name="${NAME}.constants" reformat="false" live-template-enabled="false" />
+      <template name="React Component Boilerplate.tsx.child.2.tsx" file-name="${NAME}.test" reformat="false" live-template-enabled="false" />
+      <template name="React Component Boilerplate.tsx.child.3.ts" file-name="index" reformat="true" live-template-enabled="false" />
+      <template name="React Fragment Boilerplate.tsx" file-name="${NAME}.component" reformat="true" live-template-enabled="false">
+        <template name="React Fragment Boilerplate.tsx.child.0.ts" file-name="${NAME}.interfaces" reformat="false" live-template-enabled="false" />
+        <template name="React Fragment Boilerplate.tsx.child.1.ts" file-name="${NAME}.constants" reformat="false" live-template-enabled="false" />
+        <template name="React Fragment Boilerplate.tsx.child.2.tsx" file-name="${NAME}.test" reformat="false" live-template-enabled="false" />
+        <template name="React Fragment Boilerplate.tsx.child.3.ts" file-name="index" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="React Fragment Boilerplate.tsx.child.0.ts" file-name="${NAME}.interfaces" reformat="false" live-template-enabled="false" />
+      <template name="React Fragment Boilerplate.tsx.child.1.ts" file-name="${NAME}.constants" reformat="false" live-template-enabled="false" />
+      <template name="React Fragment Boilerplate.tsx.child.2.tsx" file-name="${NAME}.test" reformat="false" live-template-enabled="false" />
+      <template name="React Fragment Boilerplate.tsx.child.3.ts" file-name="index" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
