@@ -1,0 +1,12 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="React Fragment Boilerplate.tsx" file-name="${NAME}.component" reformat="true" live-template-enabled="false">
+        <template name="React Fragment Boilerplate.tsx.child.0.ts" file-name="${NAME}.constants" reformat="true" live-template-enabled="false" />
+        <template name="React Fragment Boilerplate.tsx.child.1.ts" file-name="${NAME}.interfaces" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="React Fragment Boilerplate.tsx.child.0.ts" file-name="${NAME}.constants" reformat="true" live-template-enabled="false" />
+      <template name="React Fragment Boilerplate.tsx.child.1.ts" file-name="${NAME}.interfaces" reformat="true" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</application>

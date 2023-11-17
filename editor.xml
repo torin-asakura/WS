@@ -12,6 +12,7 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="Markdown.MarkdownTableInlayProviderSettingsKey" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
