@@ -3,11 +3,11 @@
     <option name="customScope" value="Local" />
     <option name="defaultScopeName" value="Local" />
     <option name="SEARCH_SCOPE" value="Local" />
-    <option name="FILE_MASK" value="package.json" />
+    <option name="FILE_MASK" value="*.ts*" />
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>*.ts*</mask>
     <mask>package.json</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
