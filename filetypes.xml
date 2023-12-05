@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
