@@ -5,7 +5,6 @@
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
 </application>
