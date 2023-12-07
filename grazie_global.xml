@@ -11,6 +11,8 @@
         <option name="suppressed">
           <set>
             <option value="вместо HTTP" />
+            <option value="ahem font" />
+            <option value="Ahem font" />
           </set>
         </option>
       </SuppressingContext>
