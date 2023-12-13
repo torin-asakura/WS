@@ -15,6 +15,7 @@
       <map>
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="ReadOnlyAttribute" value="false" />
       </map>
     </option>
   </component>
