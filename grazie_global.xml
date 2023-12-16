@@ -10,9 +10,10 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="вместо HTTP" />
             <option value="ahem font" />
             <option value="Ahem font" />
+            <option value="вместо HTTP" />
+            <option value="antlr4ts" />
           </set>
         </option>
       </SuppressingContext>
