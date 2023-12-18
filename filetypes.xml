@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="relation-tuples" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="clients" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
