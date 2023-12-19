@@ -10,6 +10,7 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>package.json</mask>
+    <mask>*.js*</mask>
     <mask>*.ts*</mask>
   </component>
 </application>
