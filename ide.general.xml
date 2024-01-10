@@ -15,6 +15,8 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="AIAssistant" value="false" />
+        <entry key="FlowJSInfo" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
