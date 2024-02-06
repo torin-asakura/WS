@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected files" />
-    <option name="defaultScopeName" value="Selected files" />
-    <option name="SEARCH_SCOPE" value="Selected files" />
-    <option name="FILE_MASK" value="package.json" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
