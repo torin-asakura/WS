@@ -1,10 +1,5 @@
 <application>
   <component name="PlantUmlSettingsNew">
     <option name="lastBundledVersion" value="1.2023.13" />
-    <option name="previewSettings">
-      <PreviewSettings>
-        <option name="splitEditorLayout" value="Show preview only" />
-      </PreviewSettings>
-    </option>
   </component>
 </application>
