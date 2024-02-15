@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS copy 2" parent="Mac OS X 10.5+">
+<keymap version="1" name="macOS Custom" parent="Mac OS X 10.5+">
   <action id="ActivatePullRequestsToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
