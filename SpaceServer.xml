@@ -1,0 +1,15 @@
+<application>
+  <component name="SpaceServerConfigurable">
+    <option name="cloneType" value="SSH" />
+    <option name="permissionsStorage">
+      <SpacePermissionsStorage>
+        <option name="version" value="8" />
+      </SpacePermissionsStorage>
+    </option>
+    <option name="serverSettings">
+      <SpaceServerSettings>
+        <option name="server" value="https://rees46.jetbrains.space" />
+      </SpaceServerSettings>
+    </option>
+  </component>
+</application>
