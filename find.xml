@@ -17,8 +17,8 @@
     <mask>*.cjs</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
-    <mask>*.ts*</mask>
     <mask>package.json</mask>
     <mask>*.js*</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
