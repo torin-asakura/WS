@@ -3,7 +3,9 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="package.json" />
     <mask>*.xml</mask>
@@ -22,6 +24,7 @@
     <mask>*.js</mask>
     <mask>*.js*</mask>
     <mask>*.ts*</mask>
+    <mask>*.json</mask>
     <mask>package.json</mask>
   </component>
 </application>
