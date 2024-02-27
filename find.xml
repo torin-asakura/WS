@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.cjs" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -18,12 +19,12 @@
     <mask>*.mts</mask>
     <mask>*.ats</mask>
     <mask>*.cts</mask>
-    <mask>*.cjs</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.js*</mask>
     <mask>*.ts*</mask>
     <mask>*.json</mask>
     <mask>package.json</mask>
+    <mask>*.cjs</mask>
   </component>
 </application>
