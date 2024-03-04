@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js*" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -16,10 +17,10 @@
     <mask>*.cts</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
-    <mask>*.js*</mask>
     <mask>*.ts*</mask>
     <mask>*.json</mask>
     <mask>package.json</mask>
     <mask>*.cjs</mask>
+    <mask>*.js*</mask>
   </component>
 </application>
