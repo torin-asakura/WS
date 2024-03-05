@@ -5,7 +5,5 @@
         <added pattern="React.useMemo(factory,deps)" />
       </blacklist>
     </blacklists>
-    <option id="js.only.show.names.for.tagged" value="false" />
-    <option id="js.param.hints.show.names.for.tagged" value="false" />
   </component>
 </application>
