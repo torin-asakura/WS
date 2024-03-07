@@ -17,7 +17,6 @@
         <option value="inheritors" />
         <option value="llm" />
         <option value="references" />
-        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>

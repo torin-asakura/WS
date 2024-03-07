@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="package.json" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -15,10 +14,12 @@
     <mask>*.mts</mask>
     <mask>*.ats</mask>
     <mask>*.cts</mask>
-    <mask>*.cjs</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.ts*</mask>
+    <mask>*.json</mask>
     <mask>package.json</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js*</mask>
   </component>
 </application>
