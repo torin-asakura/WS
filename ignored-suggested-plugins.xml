@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="dev.nx.console" />
+        <option value="com.intellij.bigdatatools.kafka" />
       </list>
     </option>
   </component>
