@@ -17,6 +17,7 @@
         <option value="inheritors" />
         <option value="llm" />
         <option value="references" />
+        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
@@ -47,7 +48,7 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="TypeScript.parameter.hints.old" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="TodoConfiguration">
