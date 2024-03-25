@@ -1,0 +1,12 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Automatic indent detection" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Dependencies from package.json" displayType="NONE" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="Plugins Suggestion" />
+    <notification groupId="System shortcuts conflicts" />
+    <notification groupId="Vcs Important Messages" />
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Russian" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="ahem font" />
+            <option value="Ahem font" />
+            <option value="вместо HTTP" />
+            <option value="antlr4ts" />
+            <option value="Reels Reels" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
