@@ -1,0 +1,701 @@
+<application>
+  <component name="libraryTable">
+    <library name="bigdecimal (v3.1.5, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bundler (v2.4.17, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/lib/ruby/gems/3.3.0/gems/bundler-2.4.17/exe" />
+        <root url="file:///opt/homebrew/lib/ruby/gems/3.3.0/gems/bundler-2.4.17/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/lib/ruby/gems/3.3.0/gems/bundler-2.4.17/exe" />
+        <root url="file:///opt/homebrew/lib/ruby/gems/3.3.0/gems/bundler-2.4.17/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/lib/ruby/gems/3.3.0/gems/bundler-2.4.17/exe" />
+      </excluded>
+    </library>
+    <library name="bundler (v2.5.4, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/ui" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/cli" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/man" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/plugin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/source" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/vendor" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/fetcher" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/resolver" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/settings" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/installer" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/templates" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/compact_index_client" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/ui" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/cli" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/man" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/plugin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/source" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/vendor" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/fetcher" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/resolver" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/settings" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/installer" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/templates" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/ui" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/cli" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/man" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/plugin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/source" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/fetcher" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/resolver" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/settings" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/installer" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/templates" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/bundler/compact_index_client" />
+      </excluded>
+    </library>
+    <library name="cgi (v0.4.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/cgi/session" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/cgi/session" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/cgi/session" />
+      </excluded>
+    </library>
+    <library name="csv (v3.2.8, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/csv/core_ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/csv/core_ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/csv/core_ext" />
+      </excluded>
+    </library>
+    <library name="debug (v1.9.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/misc" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/misc" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/debug-1.9.1/misc" />
+      </excluded>
+    </library>
+    <library name="did_you_mean (v1.6.3, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/core_ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/formatters" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/spell_checkers" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/core_ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/formatters" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/spell_checkers" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/core_ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/formatters" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/did_you_mean/spell_checkers" />
+      </excluded>
+    </library>
+    <library name="digest (v3.1.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/digest/sha2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/digest/sha2" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/digest/sha2" />
+      </excluded>
+    </library>
+    <library name="drb (v2.2.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="erb (v4.0.3, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="error_highlight (v0.6.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="fiddle (v1.1.2, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="forwardable (v1.3.3, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="io-console (v0.7.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="irb (v1.11.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/lc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/cmd" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/debug" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/lc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/cmd" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/debug" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/lc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/cmd" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/irb/debug" />
+      </excluded>
+    </library>
+    <library name="json (v2.7.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/json/add" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/json/add" />
+      </excluded>
+    </library>
+    <library name="logger (v1.6.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="matrix (v0.4.2, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/matrix-0.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/matrix-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.20.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/minitest-5.20.0/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/minitest-5.20.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/minitest-5.20.0/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/minitest-5.20.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/minitest-5.20.0/test" />
+      </excluded>
+    </library>
+    <library name="net-ftp (v0.3.3, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-ftp-0.3.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-ftp-0.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-http (v0.4.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="net-imap (v0.4.9, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/docs" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/docs" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/docs" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-imap-0.4.9/rakelib" />
+      </excluded>
+    </library>
+    <library name="net-pop (v0.1.2, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-pop-0.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-pop-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-smtp (v0.4.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-smtp-0.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/net-smtp-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="open3 (v0.2.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="openssl (v3.2.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="optparse (v0.4.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="power_assert (v2.0.3, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/power_assert-2.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/power_assert-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="prime (v0.1.2, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/prime-0.1.2/bin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/prime-0.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/prime-0.1.2/bin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/prime-0.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/prime-0.1.2/bin" />
+      </excluded>
+    </library>
+    <library name="prism (v0.19.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/prism/parse_result" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/prism/parse_result" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/prism/parse_result" />
+      </excluded>
+    </library>
+    <library name="psych (v5.1.2, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/json" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/nodes" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/handlers" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/visitors" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/json" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/nodes" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/handlers" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/json" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/nodes" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/handlers" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="racc (v1.7.3, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/bin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/bin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/bin" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/racc-1.7.3/ext" />
+      </excluded>
+    </library>
+    <library name="rake (v13.1.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rake-13.1.0/exe" />
+      </excluded>
+    </library>
+    <library name="rbs (v3.4.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/sig" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/core" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/docs" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/schema" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/sig" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/core" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/docs" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/schema" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/stdlib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/ext" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/docs" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rbs-3.4.0/schema" />
+      </excluded>
+    </library>
+    <library name="rdoc (v6.6.2, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/rd" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/ri" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/i18n" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/stats" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/markup" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/parser" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/context" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/markdown" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/generator" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/rd" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/ri" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/i18n" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/stats" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/markup" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/parser" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/context" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/markdown" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/rd" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/ri" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/i18n" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/stats" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/markup" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/parser" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/context" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/markdown" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/rdoc/generator" />
+      </excluded>
+    </library>
+    <library name="reline (v0.4.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/reline/unicode" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/reline/key_actor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/reline/unicode" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/reline/key_actor" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/reline/unicode" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/reline/key_actor" />
+      </excluded>
+    </library>
+    <library name="rexml (v3.2.6, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rexml-3.2.6/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rexml-3.2.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rexml-3.2.6/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rexml-3.2.6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rexml-3.2.6/doc" />
+      </excluded>
+    </library>
+    <library name="rinda (v0.2.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="rss (v0.3.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rss-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/rss-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="set (v1.1.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="syntax_suggest (v2.0.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/syntax_suggest/capture" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/syntax_suggest/capture" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/3.3.0/syntax_suggest/capture" />
+      </excluded>
+    </library>
+    <library name="syslog (v0.1.2, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="test-unit (v3.6.1, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/doc" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/test-unit-3.6.1/sample" />
+      </excluded>
+    </library>
+    <library name="typeprof (v0.21.9, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/tools" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/lib" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/exe" />
+        <root url="file:///opt/homebrew/Cellar/ruby/3.3.0/lib/ruby/gems/3.3.0/gems/typeprof-0.21.9/tools" />
+      </excluded>
+    </library>
+    <library name="uri (v0.13.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="yaml (v0.3.0, ruby-3.3.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
