@@ -23,5 +23,6 @@
     <mask>*.php*</mask>
     <mask>*.slim</mask>
     <mask>*.ts*</mask>
+    <mask>.env*</mask>
   </component>
 </application>
