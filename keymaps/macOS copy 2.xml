@@ -9,4 +9,5 @@
   <action id="Github.View.Pull.Request">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="ViewSource" />
 </keymap>
