@@ -6,6 +6,9 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Docker.RemoteServer.DisconnectServer">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
   <action id="Github.View.Pull.Request">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
