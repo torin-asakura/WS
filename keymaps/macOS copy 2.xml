@@ -12,5 +12,9 @@
   <action id="Github.View.Pull.Request">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="JumpToLastWindow" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="ViewSource" />
 </keymap>
