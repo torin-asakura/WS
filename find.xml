@@ -16,10 +16,13 @@
     <mask>*.cts</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
-    <mask>*.ts*</mask>
     <mask>*.json</mask>
     <mask>package.json</mask>
     <mask>*.cjs</mask>
     <mask>*.js*</mask>
+    <mask>*.php*</mask>
+    <mask>*.slim</mask>
+    <mask>*.ts*</mask>
+    <mask>.env*</mask>
   </component>
 </application>
