@@ -7,7 +7,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/opt/node@20/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="20.11.1" last-modified="1708942158911" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="21.7.1" last-modified="1711580858887" />
