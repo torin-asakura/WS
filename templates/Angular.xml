@@ -1,11 +1,15 @@
 <templateSet group="Angular">
   <template name="signal" value="readonly $name$ = signal($END$)" description="readonly name = signal()" toReformat="true" toShortenFQNames="true" useStaticImport="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="computed" value="$name$ = computed(() =&gt; {$END$});" description="name = computed(() =&gt; {});" toReformat="true" toShortenFQNames="true" useStaticImport="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="effect" value="effect(() =&gt; {$END$});" description="effect(() =&gt; {});" toReformat="true" toShortenFQNames="true" useStaticImport="true" deactivated="true" />
+  <template name="effect" value="effect(() =&gt; {$END$});" description="effect(() =&gt; {});" toReformat="true" toShortenFQNames="true" useStaticImport="true" deactivated="true">
+    <context />
+  </template>
   <template name="a-class" value="[class]=&quot;$expression$&quot;" description="Angular [class] binding" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="expression" expression="" defaultValue="&quot;expression&quot;" alwaysStopAt="true" />
     <context />
