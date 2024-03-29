@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js*" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -19,10 +20,10 @@
     <mask>*.json</mask>
     <mask>package.json</mask>
     <mask>*.cjs</mask>
-    <mask>*.js*</mask>
     <mask>*.php*</mask>
     <mask>*.slim</mask>
     <mask>.env*</mask>
     <mask>*.ts*</mask>
+    <mask>*.js*</mask>
   </component>
 </application>
