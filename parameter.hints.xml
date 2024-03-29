@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="React.useMemo(factory,deps)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
