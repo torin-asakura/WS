@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="RECENT_FILES_LIMIT" value="20" />
     <option name="RECENT_LOCATIONS_LIMIT" value="15" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
