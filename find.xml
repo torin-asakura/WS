@@ -17,12 +17,12 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>package.json</mask>
     <mask>*.cjs</mask>
     <mask>*.js*</mask>
     <mask>*.php*</mask>
     <mask>*.slim</mask>
     <mask>.env*</mask>
     <mask>*.ts*</mask>
+    <mask>package.json</mask>
   </component>
 </application>
