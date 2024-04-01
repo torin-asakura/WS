@@ -1,0 +1,6 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="JumpToLastWindow" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+</keymap>
