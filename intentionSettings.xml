@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="XML/Split current tag" />
+    <ignoreAction name="Other/Flip comma" />
   </component>
 </application>
