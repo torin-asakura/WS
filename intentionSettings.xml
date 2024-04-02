@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="XML/Split current tag" />
     <ignoreAction name="Other/Flip comma" />
+    <ignoreAction name="JavaScript/Other/Replace single-quoted string with double-quoted string" />
   </component>
 </application>
