@@ -24,6 +24,7 @@
     <mask>*.slim</mask>
     <mask>.env*</mask>
     <mask>package.json</mask>
+    <mask>*.yaml</mask>
     <mask>*.ts*</mask>
   </component>
 </application>
