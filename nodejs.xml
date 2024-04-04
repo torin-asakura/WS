@@ -10,7 +10,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/opt/node@20/bin/node">
-      <version-cache version="20.12.0" last-modified="1711622243047" />
+      <version-cache version="20.12.1" last-modified="1712211420350" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v19.9.0/bin/node">
       <version-cache last-modified="0" />
