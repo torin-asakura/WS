@@ -5,6 +5,7 @@
       <mapping pattern="relation-tuples" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="tree" type="AUTO_DETECTED" />
+      <mapping pattern=".swrc" type="JSON" />
       <mapping pattern="clients" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
